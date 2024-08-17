@@ -3,7 +3,7 @@ import {
   Links,
   Meta,
   Scripts,
-  ScrollRestoration,
+  ScrollRestoration
 } from "@remix-run/react";
 
 export default function App() {
