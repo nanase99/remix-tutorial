@@ -8,9 +8,9 @@
     "dev": "remix vite:dev",
     "start": "remix-serve build/server/index.js",
     "typecheck": "tsc",
-    "lint": "biome",
+    "lint": "biome lint --write",
     "format": "biome format --write",
-    "check": "biome check"
+    "check": "biome check --write"
   },
   "dependencies": {
     "@remix-run/node": "2.11.2",
