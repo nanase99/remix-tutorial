@@ -27,14 +27,12 @@
   },
   "json": {
     "formatter": {
-      "indentStyle": "space",
-      "trailingCommas": "none"
+      "indentStyle": "space"
     }
   },
   "javascript": {
     "formatter": {
-      "semicolons": "always",
-      "trailingCommas": "none"
+      "semicolons": "always"
     }
   }
 }
